@@ -1,0 +1,1 @@
+This is LongKirk's First git Project!!!1!!!1
